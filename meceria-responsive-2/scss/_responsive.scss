@@ -1,0 +1,838 @@
+@media (min-width: 1441px) {
+	/** topnav **/
+
+	/** navbar **/
+	.navbar-collapse-user {
+		display: none;
+	}
+	/** slide **/
+	/** SERVICE **/ 
+	/** TOP PRODUCT **/
+	/** ADS **/
+	/** ALL PRODUCT **/
+	/** HOT PRODUCT **/
+	/** OTHER PRODUCT **/
+	/** FEEDBACK **/
+	/** CUSTOMER **/
+	/** NEWS **/
+	/** NEWSLETTER **/
+	/** FOOTER **/
+	
+}
+
+@media (min-width: 1201px) and (max-width: 1440px){
+	/** topnav **/
+
+	/** navbar **/
+	.navbar-collapse-user {
+		display: none;
+	}
+	/** slide **/
+	.slide {
+  	.btn-wrapper {
+    	position: relative;
+    	.btn--slide {
+	      position: absolute;
+	      bottom: 62px;
+	      left: 0px;
+    	}
+  	}
+  }
+	/** SERVICE **/ 
+	/** TOP PRODUCT **/
+	/** ADS **/
+	/** ALL PRODUCT **/
+	/** HOT PRODUCT **/
+	/** OTHER PRODUCT **/
+	/** FEEDBACK **/
+	/** CUSTOMER **/
+	/** NEWS **/
+	/** NEWSLETTER **/
+	/** FOOTER **/
+	
+}
+
+
+@media (min-width: 1025px) and (max-width: 1200px){
+	/** general **/
+	.text-blue {
+	  font-size: 18px;
+	}
+
+	.text-cross {
+	  margin: 0px 3px;
+	  font-size: 13px;
+	  &:before {
+	    margin-top: 4px;
+	  }
+	}
+
+	/** topnav **/
+
+	/** navbar **/
+	.navbar-collapse-user {
+		display: none;
+	}
+	/** slide **/
+	.slide {
+  	.btn-wrapper {
+    	position: relative;
+    	.btn--slide {
+	      position: absolute;
+	      bottom: 62px;
+	      left: 0px;
+    	}
+  	}
+  	}
+	/** SERVICE **/ 
+	/** TOP PRODUCT **/
+	/** ADS **/
+	/** ALL PRODUCT **/
+	/** HOT PRODUCT **/
+	/** OTHER PRODUCT **/
+	/** FEEDBACK **/
+	/** CUSTOMER **/
+	/** NEWS **/
+	#news {
+    height: 600px;
+		.box-layer {
+	    width: 358px;
+	    	height: 358px;
+		}
+
+	 	.box2 {
+      .news-box {
+        padding: 150px 64px 70px 107px;
+      }
+			.image-layer {
+        width: 270px;
+        height: 270px;
+      }
+      .news-title {
+        font-size: 11px;
+        border-bottom: 1px solid black;
+        padding-bottom: 8px;
+      }
+      .news-describe {
+        font-size: 9px;
+        padding-top: 8px;
+		}
+  }
+}
+
+	/** NEWSLETTER **/
+	/** FOOTER **/
+	#footer {
+      .footer-tab {
+        .footer-ul {
+          font-size: 11px;
+          padding: 35px 7px;
+        }
+      }
+
+      .footer-info {
+        font-size: 11px;
+      }
+    }
+
+}
+
+
+// @media (min-width: 1025px) and (max-width: 1440px){
+// }
+
+@media(min-width: 769px) and (max-width:1024px) {
+    /** general **/
+  .text-blue {
+    font-size: 15px;
+  }
+
+  .text-cross {
+    margin: 0px 3px;
+    font-size: 13px;
+    padding: 0px 5px;
+    &:before {
+      margin-top: 4px;
+      height: 10px;
+      top: 0;
+    }
+  }
+
+  .btn-slide {
+    padding: 8px;
+  }
+
+  .btn {
+    padding: 4px;
+    font-size: 12px;
+  }
+
+	/** topnav **/
+
+	/** navbar **/
+	.navbar-collapse-user {
+		display: none;
+	}
+
+	/** slide **/
+    .slide {
+    .btn-wrapper {
+      position: relative;
+      .btn--slide {
+        position: absolute;
+        bottom: 45px;
+        left: 0px;
+      }
+    }
+    }
+	/** SERVICE **/ 
+	/** TOP PRODUCT **/
+  #topproduct {
+  .ribbon {
+    width: 20%;
+  }
+  }
+	/** ADS **/
+	/** ALL PRODUCT **/
+	/** HOT PRODUCT **/
+	/** OTHER PRODUCT **/
+	/** FEEDBACK **/
+  #feedback {
+    .main-title-feedback {
+      padding: 29px 0px 13px 0px;
+    }
+    .feedback-avar {
+      top: 200px;
+    }
+
+    .feedback-name {
+      top: 300px;
+    }
+
+    .feedback-job {
+      top: 330px;
+    }
+  }
+	/** CUSTOMER **/
+	/** NEWS **/
+    #news {
+    height: auto;
+    .box-news {
+      margin-bottom: 0px;
+    }
+
+    .datebox {
+      width: 50%;
+      height: 115px;
+      .text-blue {
+        font-size: 45px;
+        margin-top: 2px;
+      }
+      .text-muted, .text-white {
+        font-size: 12px;
+        margin-bottom: 0;
+      }
+    }
+    .box-layer {
+      width: 100%;
+      height: 360px;
+    }
+    .box1 {
+      height: 400px;
+    }
+    .box2 {
+      height: 400px;
+      .news-box {
+        padding: 110px 50px 0 59px;
+      }
+      .image-layer {
+        width: 80%;
+        height: 300px;
+        top:40px;
+        left: 42px;
+      }
+      .news-title {
+        font-size: 14px;
+        border-bottom: 1px solid black;
+        padding-bottom: 8px;
+      }
+      .news-describe {
+        font-size: 12px;
+        padding-top: 8px;
+    }
+  }
+}
+    
+
+	/** NEWSLETTER **/
+  #newsletter {
+    margin-top:0;
+    .newsletter-wrap {
+      font-size: 30px;
+    }
+  }
+	/** FOOTER **/
+    #footer {
+      .footer-tab {
+        .footer-ul {
+          font-size: 11px;
+          padding: 35px 7px;
+        }
+      }
+
+      .footer-info {
+        font-size: 11px;
+      }
+    }
+
+
+}
+
+@media(min-width: 426px) and (max-width:768px) {
+      /** general **/
+
+  .text-blue {
+    font-size: 13px;
+  }
+
+  .text-cross {
+    margin: 0px 3px;
+    font-size: 10px;
+    padding: 0px 5px;
+    &:before {
+      margin-top: 3px;
+      height: 8px;
+      top: 0;
+    }
+  }
+
+  .btn-slide {
+    padding: 8px;
+  }
+
+  .btn {
+    padding: 4px;
+    font-size: 12px;
+  }
+
+	/** topnav **/
+	.topnav  {
+		display: none;
+	}
+
+
+	/** navbar **/
+
+	.navbar {
+		.nav-link{
+			text-align: center;
+			i {
+				display: none;
+			}
+		}
+
+		.nav-item-cart {
+			text-align: center;
+			margin-left: 0px;
+
+			.nav-cart {
+				margin-left: 0px;
+				margin-top: 40px;
+			}
+		}
+
+		.nav-item {
+        	&:hover { 
+    			border-bottom: 2px solid transparent;
+  			}
+		}
+
+		.nav-item-hover {
+			&:hover{
+				.navbar-hover{
+					display: none;
+				}
+			}
+		}
+	}
+	/** slide **/
+.slide{
+  .btn-wrapper {
+    .btn--slide{
+      bottom: 40px;
+    }
+  }
+}
+	/** SERVICE **/
+  #service {
+    b{
+      font-size: 13px;
+    }
+    .service-icon {
+      float: none;
+      margin-right: 0;
+      text-align: center;
+    }
+    .service-info {
+      text-align: center;
+      font-size: 13px;
+    } 
+
+    .users, 
+    .star {
+      margin-bottom: 6px;
+    }
+
+    .send {
+      margin-bottom: 3px;
+    }
+}
+	/** TOP PRODUCT **/
+
+  #topproduct {
+    .detail-large {
+      bottom: 18%;
+      .detail-title {
+        font-size: 30px;
+      }
+      .detail-price {
+        font-size: 25px;
+      }
+    }
+  }
+	/** ADS **/
+	/** ALL PRODUCT **/
+	/** HOT PRODUCT **/
+#hotproduct {
+  .hotproduct-wrap {
+    display: none;
+  }
+}
+	/** OTHER PRODUCT **/
+	/** FEEDBACK **/
+  #feedback {
+    .main-title-feedback {
+      padding: 35px 0px 13px 0px;
+    }
+    .feedback-describe {
+      left: 24%;
+      text-align: justify;
+      transform: translateX(-16%);
+      font-size: 14px;
+    }
+
+    .feedback-avar {
+      top: 214px;
+    }
+
+    .feedback-name {
+      top: 310px;
+    }
+
+    .feedback-job {
+      top: 335px;
+    }
+  }
+	/** CUSTOMER **/
+	/** NEWS **/
+      #news {
+    height: auto;
+    .box-news {
+      margin-top: 55px;
+      margin-bottom: 0;
+    }
+    .box-layer {
+      width: 100%;
+        height: 240px;
+    }
+    .box1 {
+      height: 300px;
+          .datebox {
+      width: 50%;
+      height: 115px;
+      .text-blue {
+        font-size: 45px;
+        margin-top: 2px;
+      }
+      .text-muted, .text-white {
+        font-size: 12px;
+        margin-bottom: 0;
+      }
+    }
+    }
+
+    .box2 {
+      height: 300px;
+      .news-box {
+        padding: 51px 24px 70px 56px;
+      }
+      .image-layer {
+        width: 80%;
+        height: 200px;
+        left: 38px;
+        top: 38px;
+
+      }
+      .news-title {
+        font-size: 11px;
+        border-bottom: 1px solid black;
+        padding-bottom: 8px;
+      }
+      .news-describe {
+        font-size: 9px;
+        padding-top: 8px;
+    }
+
+        .datebox {
+      width: 50%;
+      height: 115px;
+      .text-blue {
+        font-size: 45px;
+        margin-top: 2px;
+      }
+      .text-muted, .text-white {
+        font-size: 12px;
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+	/** NEWSLETTER **/
+  #newsletter {
+    margin-top: 0;
+    .form-control {
+      font-size: 12px;
+    }
+
+    .newsletter-wrap {
+      .mail {
+        background-size: 70%;
+      }
+      font-size: 20px;
+      margin-left: 30px;
+
+      ul {
+        margin-top: 8px;
+      }
+    }
+
+    .newsletter-span {
+      position: relative;
+      i {
+        position: absolute;
+        left: -30px;
+        top: -5px;
+      }
+    }
+  }
+	/** FOOTER **/
+  #footer {
+    .padding-1 {
+      padding-top: 0;
+    }
+    .footer-brand {
+    border-right: none; 
+  }
+
+  .footer-tab {
+    .footer-ul {
+      padding-top: 45px;
+      padding-bottom: 0px;
+    }
+  }
+
+  .footer-tab-title1{
+    &:before {
+      width: 18%;
+    }
+  }
+    .footer-tab-title2{
+    &:before {
+      width: 10%;
+    }
+  }
+      .footer-tab-title3{
+    &:before {
+      width: 14%;
+    }
+  }
+
+      .footer-tab-title4{
+    &:before {
+      width: 16%;
+    }
+  }
+  }
+}
+
+@media(min-width: 376px) and (max-width:425px) {
+  /** topnav **/
+  .topnav {
+    display: none;
+  }
+  /** navbar **/
+  .navbar {
+    .nav-link{
+      text-align: center;
+      i {
+        display: none;
+      }
+    }
+
+    .nav-item-cart {
+      text-align: center;
+      margin-left: 0px;
+
+      .nav-cart {
+        margin-left: 0px;
+        margin-top: 40px;
+      }
+    }
+
+    .nav-item {
+          &:hover { 
+          border-bottom: 2px solid transparent;
+        }
+    }
+
+    .nav-item-hover {
+      &:hover{
+        .navbar-hover{
+          display: none;
+        }
+      }
+    }
+  }
+  /** slide **/
+  /** SERVICE **/ 
+  #service {
+    b{
+      font-size: 11px;
+    }
+    .service-info{
+      font-size: 14px;
+    }
+    .service-icon {
+      margin-right: 10px;
+    }
+  }
+  /** TOP PRODUCT **/
+    #topproduct {
+    .detail-large {
+      .detail-title {
+        font-size: 35px;
+      }
+      .detail-price {
+        font-size: 30px;
+      }
+    }
+  }
+  /** ADS **/
+  #ads {
+    display: none;
+  }
+  /** ALL PRODUCT **/
+  /** HOT PRODUCT **/
+  #hotproduct {
+    .hotproduct-wrap {
+      display: none;
+    }
+    .grid-date {
+      left: 0;
+      transform: translateX(0);
+      position: unset;
+    }
+  }
+  /** OTHER PRODUCT **/
+  /** FEEDBACK **/
+  #feedback {
+    .main-title-feedback {
+      font-size: 25px;
+      padding: 25px 0px 13px 0px;
+    }
+
+    .feedback-describe {
+      left: 0;
+      transform: translateX(0);
+      padding: 0 10px;
+      font-size: 12px;
+    }
+
+    .feedback-avar{
+      top:200px;
+    }
+  }
+  /** CUSTOMER **/
+  /** NEWS **/
+  #news {
+    height: auto;
+        .box-layer {
+      width: 100%;
+        height: 240px;
+    }
+    .box1 {
+      height: 400px;
+          .datebox {
+      width: 50%;
+      height: 115px;
+      .text-blue {
+        font-size: 45px;
+        margin-top: 2px;
+      }
+      .text-muted, .text-white {
+        font-size: 12px;
+        margin-bottom: 0;
+      }
+    }
+    }
+
+    .box2 {
+      height: 260px;
+      .news-box {
+        padding: 91px 24px 70px 83px;
+      }
+      .image-layer {
+        width: 80%;
+        height: 200px;
+
+      }
+      .news-title {
+        font-size: 11px;
+        border-bottom: 1px solid black;
+        padding-bottom: 8px;
+      }
+      .news-describe {
+        font-size: 9px;
+        padding-top: 8px;
+    }
+
+        .datebox {
+      width: 50%;
+      height: 115px;
+      .text-blue {
+        font-size: 45px;
+        margin-top: 2px;
+      }
+      .text-muted, .text-white {
+        font-size: 12px;
+        margin-bottom: 0;
+      }
+    }
+  }
+  }
+  /** NEWSLETTER **/
+  #newsletter {
+      .newsletter-span {
+      position: relative;
+      i {
+        position: absolute;
+        left: -30px;
+        top: -5px;
+      }
+    }
+
+    .newsletter-wrap {
+      .mail {
+        background-size: 70%;
+      }
+      margin-left: 30px;
+    }
+  }
+  /** FOOTER **/
+  #footer {
+    .padding-1 {
+      padding-top: 0;
+    }
+    .footer-brand {
+    border-right: none; 
+  }
+
+  .footer-tab {
+    .footer-ul {
+      padding-top: 45px;
+      padding-bottom: 0px;
+    }
+  }
+
+  .footer-tab-title1{
+    &:before {
+      width: 18%;
+    }
+  }
+    .footer-tab-title2{
+    &:before {
+      width: 10%;
+    }
+  }
+      .footer-tab-title3{
+    &:before {
+      width: 14%;
+    }
+  }
+
+      .footer-tab-title4{
+    &:before {
+      width: 16%;
+    }
+  }
+
+
+
+  }
+
+}
+
+@media(min-width: 321px) and (max-width:375px) {
+    /** topnav **/
+  .topnav {
+    display: none;
+  }
+  /** navbar **/
+
+  /** slide **/
+  /** SERVICE **/ 
+  /** TOP PRODUCT **/
+  /** ADS **/
+  /** ALL PRODUCT **/
+  /** HOT PRODUCT **/
+  #hotproduct {
+    .hotproduct-wrap {
+      display: none;
+    }
+  }
+  /** OTHER PRODUCT **/
+  /** FEEDBACK **/
+  /** CUSTOMER **/
+  /** NEWS **/
+  /** NEWSLETTER **/
+  /** FOOTER **/
+
+}
+
+@media(max-width:320px) {
+      /** topnav **/
+  .topnav {
+    display: none;
+  }
+  /** navbar **/
+
+  /** slide **/
+  /** SERVICE **/ 
+  /** TOP PRODUCT **/
+  /** ADS **/
+  /** ALL PRODUCT **/
+  /** HOT PRODUCT **/
+  #hotproduct {
+    .hotproduct-wrap {
+      display: none;
+    }
+  }
+  /** OTHER PRODUCT **/
+  /** FEEDBACK **/
+  /** CUSTOMER **/
+  /** NEWS **/
+  /** NEWSLETTER **/
+  /** FOOTER **/
+
+}
+
